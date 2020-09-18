@@ -36,8 +36,9 @@ h1, h2, h3, h4, h5, h6 { margin: 0; }
 
 /* if the nav has the same styles */
 .header-nav ul ,
-.header-account ul {
+.header-account ul {}
 
-}
+.header-nav ul li ,
+.header-account ul li {}
 
 /* Hero */
