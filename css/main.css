@@ -18,6 +18,13 @@ h1, h2, h3, h4, h5, h6 { margin: 0; }
   }
 }
 
+/* Buttons */
+.button {
+  border: 0;
+  text-decoration: none;
+}
+.button-primary {}
+
 
 /* Header */
 .header {}
@@ -42,3 +49,17 @@ h1, h2, h3, h4, h5, h6 { margin: 0; }
 .header-account ul li {}
 
 /* Hero */
+.hero {}
+
+.hero-grid {}
+
+.area-illustration {}
+.area-description {}
+
+.hero-image {}
+.hero-title {}
+.hero-description {}
+.hero-description span {}
+
+.hero-button {}
+
