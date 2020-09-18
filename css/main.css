@@ -1,0 +1,43 @@
+/* Global Styles */
+
+* { box-sizing: border-box; }
+
+p { margin-top: 0; }
+
+h1, h2, h3, h4, h5, h6 { margin: 0; }
+
+/* Layout */
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+}
+@media screen and (min-width: 1200px) {
+  .container {
+    width: 1140px;
+  }
+}
+
+
+/* Header */
+.header {}
+.header-brand {}
+.header-brand span {}
+
+.header-nav {}
+.header-nav ul {}
+.header-nav ul li {}
+.header-nav ul li a {}
+
+.header-account {}
+.header-account ul {}
+.header-account ul li {}
+.header-account ul li a {}
+
+/* if the nav has the same styles */
+.header-nav ul ,
+.header-account ul {
+
+}
+
+/* Hero */
